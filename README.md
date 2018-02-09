@@ -1,2 +1,3 @@
 # pricebot
-web scraping 
+web scraping
+[http://www.yamahamotos.cl/]
